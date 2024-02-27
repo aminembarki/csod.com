@@ -1,0 +1,9 @@
+{
+	"id": "CXBhjONmQiImMDW",
+	"json": "{\"id\":\"CXBhjONmQiImMDW\",\"url\":\"https://msc.csod.com/ux/ats/careersite/4/home?c=msc&country=ch&date=WithinThirtyDays\",\"loadedUrl\":\"https://msc.csod.com/ux/ats/careersite/4/home?c=msc&country=ch&date=WithinThirtyDays\",\"uniqueKey\":\"https://msc.csod.com/ux/ats/careersite/4/home?c=msc&country=ch&date=WithinThirtyDays\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-02-27T17:10:33.820Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://msc.csod.com/ux/ats/careersite/4/home?c=msc&country=ch&date=WithinThirtyDays",
+	"url": "https://msc.csod.com/ux/ats/careersite/4/home?c=msc&country=ch&date=WithinThirtyDays"
+}

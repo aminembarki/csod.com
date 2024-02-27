@@ -1,0 +1,92 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_bHSQZwK7SA",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-02-27T18:00:30.478Z",
+      "createdAt": "2024-02-27T17:10:30.478Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_WoM2hOdUME",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "c5rlaklkhdhsrx4xqh5g4okj",
+            "expires": "2024-02-27T18:00:32.354Z",
+            "domain": "msc.csod.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-02-27T17:10:32.356Z",
+            "lastAccessed": "2024-02-27T17:10:32.356Z"
+          },
+          {
+            "key": "cscx",
+            "value": "msc|-1523|1|1|KD+8QUUQYBqcy+CQtrnsrX6LYD0prkwqyhsoXtqNuDA=",
+            "expires": "2024-02-27T18:00:32.354Z",
+            "domain": "msc.csod.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-02-27T17:10:32.357Z",
+            "lastAccessed": "2024-02-27T17:10:32.357Z"
+          },
+          {
+            "key": "AWSALB",
+            "value": "xlxu65hORHB5QWssH1G6enP53faauZb0GZDcAs8LFf5tknitBQyXQb2s/ApUI7B+6kL9XjIp5p8EFeKIJYYCCK+F5Qlw354Ylojpgr6WjJzDYQLVWPlPTbS/jCi3",
+            "expires": "2024-03-05T17:10:32.070Z",
+            "domain": "msc.csod.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2024-02-27T17:10:32.358Z",
+            "lastAccessed": "2024-02-27T17:10:32.358Z"
+          },
+          {
+            "key": "AWSALBCORS",
+            "value": "xlxu65hORHB5QWssH1G6enP53faauZb0GZDcAs8LFf5tknitBQyXQb2s/ApUI7B+6kL9XjIp5p8EFeKIJYYCCK+F5Qlw354Ylojpgr6WjJzDYQLVWPlPTbS/jCi3",
+            "expires": "2024-03-05T17:10:32.070Z",
+            "domain": "msc.csod.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-02-27T17:10:32.358Z",
+            "lastAccessed": "2024-02-27T17:10:32.358Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-02-27T18:00:30.480Z",
+      "createdAt": "2024-02-27T17:10:30.480Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
